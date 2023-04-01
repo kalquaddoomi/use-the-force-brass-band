@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ec555a6d-d155-4dee-a9b6-1d5286e4e609"
+      }
+    },
+    "owner": "kalquaddoomi"
   }
 }
